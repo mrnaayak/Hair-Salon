@@ -1,4 +1,5 @@
 # NEW JUBILEE MEN'S PARLOUR - Hair Salon Application
+View Site:https://mrnaaik.github.io/Hair-Salon/
 
 ## Overview
 
@@ -38,7 +39,7 @@ NEW JUBILEE MEN'S PARLOUR is a cutting-edge hair salon application designed spec
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/new-jubilee-mens-parlour.git
+   git clone https://mrnaaik.github.io/Hair-Salon/
    ```
 2. **Navigate to the Project Directory**:
    ```bash
