@@ -1,5 +1,5 @@
 # NEW JUBILEE MEN'S PARLOUR - Hair Salon Application
-View Site:https://mrnaaik.github.io/Hair-Salon/
+View Site: https://mrnaayak.github.io/Hair-Salon/
 
 ## Overview
 
@@ -87,6 +87,10 @@ We welcome contributions from the community! If you'd like to contribute, please
    git push origin feature/YourFeatureName
    ```
 5. **Submit a Pull Request**.
+   ![Screenshot (193)](https://github.com/user-attachments/assets/85b01849-fe55-4da7-a114-9de97a77b7d8)
+
+   ![Screenshot (194)](https://github.com/user-attachments/assets/14e71116-1029-4c96-ae2a-ac6abc2872b6)
+
 
 ## License
 
